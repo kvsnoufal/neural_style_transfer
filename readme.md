@@ -49,6 +49,6 @@ The total loss to minimize in the training process is the weighted sum of the st
 3. AI epiphany youtube channel - https://www.youtube.com/watch?v=S78LQebx6jo&list=PLBoQnSflObcmbfshq9oNs41vODgXG-608
 4. High-Resolution Network for Photorealistic Style Transfer
 5. https://github.com/gordicaleksa/pytorch-neural-style-transfer
-6. https://github.com/limingcv/Photorealistic-Style-Transfer
+6. Code heavily "inspired" from: https://github.com/limingcv/Photorealistic-Style-Transfer
 
 ---
